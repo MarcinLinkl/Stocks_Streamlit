@@ -5,8 +5,8 @@ v1.0 Streamlit stocks filtering and agregation US company analysis data
 
 
 ## Usage
--run program by comand in venv
-`py -m streamlit run main.py`
+run program by comand in venv
+- `py -m streamlit run main.py`
 
-- also - from global python
-`streamlit run main.py`
+or by global python
+- `streamlit run main.py`
